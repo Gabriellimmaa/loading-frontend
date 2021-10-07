@@ -1,6 +1,7 @@
 # Loading Frontend
 
 Apenas algumas animações com css puro
+GitPage: https://gabriellimmaa.github.io/loading-frontend/
 
 # Loading 1
 ![](https://cdn.discordapp.com/attachments/771470980324524043/895751215533658122/loading1.gif)<br />
