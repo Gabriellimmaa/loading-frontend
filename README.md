@@ -1,6 +1,6 @@
 # Loading Frontend
 
-Apenas algumas animações com css puro
+Apenas algumas animações com css puro<br />
 GitPage: https://gabriellimmaa.github.io/loading-frontend/
 
 # Loading 1
